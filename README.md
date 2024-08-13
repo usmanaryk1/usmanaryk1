@@ -2,15 +2,15 @@
 ## Usman Arshad here
 I am a front-end web developer with extensive experience in Angular, having worked on both national and international projects.
 
-- 🔭 I’m currently working on LMS - PACIOLI, a learning management system for a specific university in Saudi Arabia, as well as the Ontime Project, a hospital management system.
+- 🔭 I’m currently working on LMS - PACIOLI, a learning management system for a specific university in Saudi Arabia, as well as the Ontime Project, a hospital management system in USA.
 
 - 🌱 I’m currently enhancing my skills in Angular and its core concepts to improve development efficiency and user experience.
 
 📫 How to reach me:
   You can contact me via:  
-  - LinkedIn [Abdul Raouf](https://www.linkedin.com/in/abdul-raouf-aa13a21b0/),  
-  - Gmail [abdulraouf1033@gmail.com](abdulraouf1033@gmail.com)
-  - WhatsApp [text me](https://wa.me/923048760833)
+  - LinkedIn [Usman Arshad](https://www.linkedin.com/in/usman-arshad-707676105/),  
+  - Gmail [usmanaryk1@gmail.com](usmanaryk1@gmail.com)
+  - WhatsApp [text me](https://wa.me/923027629877)
 
   ## Projects Quick Links
 
