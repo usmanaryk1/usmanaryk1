@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Usman Arshad here
-I am a front-end web developer with extensive experience in Angular, having worked on both national and international projects.
+I am a expert Full Stack web Developer | Angular & React Specialist with extensive experience in nodeJs, .Net-C# having worked on both national and international projects.
 
-- 🔭 I’m currently working on LMS - PACIOLI, a learning management system for a specific university in Saudi Arabia, as well as the Ontime Project, a hospital management system in USA.
+- 🔭 I’m currently working on the Ontime Project, a hospital management system in USA.
 
 - 🌱 I’m currently enhancing my skills in Angular and its core concepts to improve development efficiency and user experience.
 
@@ -32,6 +32,7 @@ You can access the projects using these links
   Following are the projects I have worked on:
   ### Aclarian
   Enhanced operational efficiency and data-driven decision-making by integrating over 130 forms and 15 reports across various business functions such as utility, finance, budgeting, permit applications, and general ledger within the ERP system.
+  Create utility public portal for billing payment and history reports etc.
   Reduced the average call response time by 35% and the number of customer complaints by 20% by implementing an in-memory cache within the ERP system.
   Url: https://www.aclarian.com
   ### Kinettix dispatch 1 vender portal
