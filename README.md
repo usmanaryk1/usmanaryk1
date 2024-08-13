@@ -18,6 +18,8 @@ You can access the projects using these links
 
 | Project | Link |
 | ------ | ------ |
+| Aclarian | https://www.aclarian.com/home |
+| Kinettix | https://www.kinettix.com/ |
 | My Trending Stories | https://mytrendingstories.com/ |
 | OntimeIts | https://ontimeits.com/ |
 | LMS | https://pacioli.sa/ |
