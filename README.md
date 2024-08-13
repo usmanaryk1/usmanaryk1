@@ -30,6 +30,13 @@ You can access the projects using these links
 
   # Projects
   Following are the projects I have worked on:
+  ### Aclarian
+  Enhanced operational efficiency and data-driven decision-making by integrating over 130 forms and 15 reports across various business functions such as utility, finance, budgeting, permit applications, and general ledger within the ERP system.
+  Reduced the average call response time by 35% and the number of customer complaints by 20% by implementing an in-memory cache within the ERP system.
+  Url: https://www.aclarian.com
+  ### Kinettix dispatch 1 vender portal
+  Integrating over 30 forms across vender business functions such as vender portal dispatch 1 task assigning.
+  Url: https://www.kinettix.com
   ### Fujairah - HR
   The Fujairah HR was an update of their already-built system which is regarding the Fujairah, a state of UAE. The update includes a lot of features including job, career, courses, trainings etc.  
   Url: https://fuj-hr.ae/
