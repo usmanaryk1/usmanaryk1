@@ -12,6 +12,24 @@ I am a expert Full Stack web Developer | Angular & React Specialist with extensi
   - Gmail [usmanaryk1@gmail.com](usmanaryk1@gmail.com)
   - WhatsApp [text me](https://wa.me/923027629877)
 
+📫 Professional Google/IBM Certification:
+  You can see certifications badges here:  
+  - Certifications [14 badges](https://www.credly.com/users/usman-g)
+  - Google IT Automation with Python Professional Certificate [Python Automation](https://www.credly.com/badges/0724635d-1c55-4c68-b878-085bc0deadd9)
+  - Google UX Design Professional Certificate [UX Design](https://www.credly.com/earner/earned/badge/61f6bde7-dab8-46ae-b246-618030f9aea4)
+  - IBM Full-Stack JavaScript Developer Professional Certificate [Full Stack Developer](https://www.credly.com/earner/earned/badge/2772d606-b738-49f0-b965-d89341fa8f51)
+  - Software Engineering Essentials [Software Engineering](https://www.credly.com/earner/earned/badge/2869185f-cd94-4422-a6eb-de9c647c166c)
+  - Git and GitHub Essentials [Version Controlling](https://www.credly.com/earner/earned/badge/f4f8252a-27e6-423a-bc7e-633e334facce)
+  - Front-end Development with React [React](https://www.credly.com/earner/earned/badge/6a8dce76-b20a-413b-bb2f-416b64d413f2)
+  - JavaScript Programming Essentials [JavaScript](https://www.credly.com/earner/earned/badge/6ff65202-53d7-40f5-81ee-70e3e68c41b9)
+  - Node and Express Essentials [Backend API's](https://www.credly.com/earner/earned/badge/2c9061f6-3469-4912-aadc-c60844b931f2)
+  - Cloud Native, DevOps, Agile & NoSQL Essentials [Cloud Programming](https://www.credly.com/earner/earned/badge/ca680bf6-5203-4b7d-aeee-01ba5bf0ee3e)
+  - Container & Kubernetes Essentials V2 [DevOpps](https://www.credly.com/earner/earned/badge/7b46e620-80c8-4279-9a20-61f3756be73b)
+  - Application Development using Microservices and Serverless [Services](https://www.credly.com/earner/earned/badge/5fad5bad-04de-4389-81f2-f84d624e9989)
+  - Intermediate Back-end Development: Node & MongoDB [Database NoSQL](https://www.credly.com/earner/earned/badge/194c5a76-0b8f-4100-8b83-03a5930977a3)
+  - JavaScript Full Stack Capstone Project [Full stack Complete Project](https://www.credly.com/earner/earned/badge/f69081fe-9fa9-4843-8566-3929f3faa3f8)
+  - 
+
   ## Projects Quick Links
 
 You can access the projects using these links
@@ -61,7 +79,7 @@ LMS - PACIOLI is a specialized learning management system designed for business 
   
   
 <!--
-**roficoder/roficoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**usmanaryk1/usmanaryk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
