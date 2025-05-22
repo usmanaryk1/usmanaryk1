@@ -53,29 +53,70 @@ You can access the projects using these links
   Create utility public portal for billing payment and history reports etc.
   Reduced the average call response time by 35% and the number of customer complaints by 20% by implementing an in-memory cache within the ERP system.
   Url: https://www.aclarian.com
+
+  #### Tech Stack
+  - Frontend - Angular
+  - Backend - C#, .net
+  - Version Control - Git, Github
+  - TOOLS: Trello, Teams
+
   ### Kinettix dispatch 1 vender portal
   Integrating over 30 forms across vender business functions such as vender portal dispatch 1 task assigning.
   Url: https://www.kinettix.com
   ### Fujairah - HR
   The Fujairah HR was an update of their already-built system which is regarding the Fujairah, a state of UAE. The update includes a lot of features including job, career, courses, trainings etc.  
+
+  #### Tech Stack
+  - Frontend - Angular
+  - Backend - Node JS
+  - Version Control - Git, Bitbucket
+  - TOOLS: Jira
   Url: https://fuj-hr.ae/
   ### Efaad Dubai Police
   Efaad Dubai Police is a comprehensive digital platform designed to enhance communication and services between Dubai Police and the community. It streamlines access to police services, information, and support, promoting safety and efficiency.  
   Url: https://efaad.dubaipolice.gov.ae/Efaad/#/
+    
+  #### Tech Stack
+  - Frontend - Angular, Jquerry
+  - Backend - Java,
+  - Version Control - Git, Bitbucket
+  - TOOLS: Jira, Teams
   ### Ailaan
   Ailaan is a user-friendly online marketplace platform, similar to OLX, where individuals can buy and sell a wide range of products and services. It provides a secure and convenient environment for users to list items, negotiate prices, and complete transactions, making it easy to connect with local buyers and sellers.  
   Url: https://ailaan.pk
+   
+  #### Tech Stack
+  - Frontend - Angular
+  - Backend - php, laravel
+  - Version Control - Git, Bitbucket
   ### LMS - PACIOLI
 LMS - PACIOLI is a specialized learning management system designed for business universities, streamlining the administration, documentation, tracking, and delivery of educational courses. Tailored to meet the needs of business students and faculty, it offers a comprehensive platform for interactive learning, resource sharing, and academic performance monitoring. This private project can be accessed with the appropriate credentials.  
   Url: https://pacioli.sa/
+   
+  #### Tech Stack
+  - Frontend - Angular
+  - Backend - C#, .net
+  - Version Control - Git, Github
+  - TOOLS: Trello, Teams
  ### My Trending Stories
   My Trending Stories is a dynamic online platform that empowers individuals to share their personal stories, experiences, and perspectives with a global audience. It serves as a hub for trending topics, providing users with the opportunity to connect, engage, and inspire others through their narratives. This project fosters a sense of community and amplifies diverse voices across various fields of interest.  
   Url: https://mytrendingstories.com/
+
+  #### Tech Stack
+  - Frontend - Angular
+  - Backend - Node JS
+  - Version Control - Git, Bitbucket
+  - TOOLS: Jira
   ### Ontime - Hospital Management System
   Ontime is a comprehensive hospital management system designed to streamline and enhance the efficiency of healthcare facilities. It integrates various functions such as patient management, appointment scheduling, billing, and medical records into a single, user-friendly platform. Ontime aims to improve patient care, optimize resource allocation, and ensure smooth operational workflows within hospitals.
   **Note:** System access is resrticted to only subscribed members  
   Url: https://ontimeits.com/
   This may not be accessible in some areas. Visit this [OntimeIts](https://www.google.com/search?q=ontimeits&sca_esv=80aba85ca15116c6&rlz=1C1ONGR_enPK1076PK1076&sxsrf=ADLYWIK09T-MV72c-Y9SYwbQDHV06VlGYg%3A1719379024578&ei=UKR7Zuz7IuzAhbIP39O54A8&ved=0ahUKEwjs4_n_wfiGAxVsYEEAHd9pDvwQ4dUDCBA&uact=5&oq=ontimeits&gs_lp=Egxnd3Mtd2l6LXNlcnAiCW9udGltZWl0czIKECMYgAQYJxiKBTIEECMYJzIEECMYJzIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTILEC4YgAQYxwEYrwEyBRAAGIAEMgUQABiABDIFEAAYgAQyCxAuGIAEGMcBGK8BSN4aUJAIWPoZcAV4AJABAZgBnQKgAZAOqgEDMi03uAEDyAEA-AEBmAILoAL9DKgCFMICChAAGLADGNYEGEfCAgcQIxgnGOoCwgIWEC4YAxi0AhjlAhjqAhiMAxiPAdgBAcICFhAAGAMYtAIY5QIY6gIYjAMYjwHYAQHCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARiKBcICEBAuGIAEGBQYhwIYxwEYrwHCAgsQLhiABBixAxiDAZgDG4gGAZAGCLoGBggBEAEYC5IHBTUuMC42oAfkTw&sclient=gws-wiz-serp)
+  #### Tech Stack
+  - Frontend - Angular JS
+  - Backend - Java
+  - Version Control - Git, Bitbucket
+  - TOOLS: Asana
   
   
 <!--
